@@ -8,3 +8,6 @@
 </br>
 
 2.爬取日本景點圖片
+- 日本政府觀光局取得景點資訊
+- 目的地:http://www.welcome2japan.tw/location/destinations/
+- 主題:http://www.welcome2japan.tw/location/interests/()
