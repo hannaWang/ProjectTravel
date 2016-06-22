@@ -7,7 +7,6 @@
 - http://www.travel4u.com.tw/Web/Oversea/CountryPage.aspx?PageId=17
 </br>
 
-2.爬取日本景點圖片
-- 日本政府觀光局取得景點資訊
-- 目的地:http://www.welcome2japan.tw/location/destinations/
-- 主題:http://www.welcome2japan.tw/location/interests/
+2.爬取日本景點
+- 清洗行程取出景點 (或日本政府觀光局取得景點:依目的地與主題)
+- 輸入景點,爬取googleMap景點圖
