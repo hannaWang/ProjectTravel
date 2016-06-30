@@ -13,8 +13,9 @@
 - 字典:1..{景點名:別名}或{景點代碼:景點(別)名}, 2.{景點:行程}, 3.{行程:類型分佈,分數}
 - 輸入景點,獲取googleMap景點圖
 
-3.圖片放在HDFS-使用HIPI
-- 安裝HIPI:http://hipi.cs.virginia.edu/gettingstarted.html
-- 透過HIPI匯入HDFS:http://hipi.cs.virginia.edu/examples/hibImport.html
+3.圖片放在HDFS-使用HIPI</br>
+- 3.1 安裝HIPI:http://hipi.cs.virginia.edu/gettingstarted.html</br>
+        - Gradel:http://www.codedata.com.tw/java/understanding-gradle-3-getting-started/</br>
+- 3.2 透過HIPI匯入HDFS:http://hipi.cs.virginia.edu/examples/hibImport.html</br>
 
 4.
