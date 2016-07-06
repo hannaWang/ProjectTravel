@@ -18,4 +18,5 @@
         - Gradel:http://www.codedata.com.tw/java/understanding-gradle-3-getting-started/</br>
 - 3.2 透過HIPI匯入HDFS:http://hipi.cs.virginia.edu/examples/hibImport.html</br>
 
-4.
+4.Django w/ hdfs
+- 1.modelLayer vs. viewLayer : modelLayer需要自行定義class(使用套件:連接hdfs,建立資料架構,用資料庫語法操作資料庫), viewLayer僅需定義操作行為(使用套件:連接hdfs,用python取出資料後操作資料內容), 
